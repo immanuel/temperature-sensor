@@ -8,3 +8,4 @@ The module is programmed to repeatedly advertise the ambient temperature over BL
 
 The BLE module is the CY8CKIT-143A PSoC® 4-BLE 256KB Module with Bluetooth 4.2 Radio manufactured by Cypress Semiconductors. The module can be programmed with the development board that comes with the Pioneer Kit (CY8CKIT-042-BLE-A).
 
+![Image of the assembled unit](https://github.com/immanuel/temperature-sensor/blob/main/assembled_unit.jpg?raw=true)
